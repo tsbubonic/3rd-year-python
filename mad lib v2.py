@@ -1,0 +1,21 @@
+
+print("mad lib")
+print("")
+
+country = input("enter a country>>")
+person1 = input("enter a person>>")
+number1 = input("enter a number>>")
+size = input("enter a size e.g. big, small>>")
+noun1 = input("enter a noun>>")
+person2 = input("enter a person>>")
+country2 = input("enter a country>>")
+number2 = input("enter a number>>")
+number3 = input("enter a number>>")
+
+print("one day, in the land of", country,"a person was born:", person1)
+print(person1, "had", number1, "toes, no hair and a", size, "head")
+print("when he was only 5 years old his mother traded him for", noun1)
+print(person1,"ahd to fend for himself on the dark streets of", country)
+print("when he was 7 years old, he was drafted into the", country2, "war")
+print("the war lasted 2 years and", person1, "was named man of the match he had", number2, "kills and", number3, "assists.")
+print("2 years later, he got married to the love of his life", person2,"and eventually they had 3 kids")
