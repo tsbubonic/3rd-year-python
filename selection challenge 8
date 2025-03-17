@@ -1,0 +1,9 @@
+player = int(input("Press 1 for 1-player, 2 for 2-player and 3 for 3-player"))
+if player == 1:
+  print("Thank you for choosing 1-player")
+elif player == 2:
+  print("Thank you for choosing 2-player")
+elif player == 3:
+  print("Thank you for choosing 3-player")
+else:
+  print("invalid choice")
